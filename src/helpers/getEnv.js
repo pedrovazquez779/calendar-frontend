@@ -1,4 +1,4 @@
-const getEnvVars = () => {
+export const getEnvVars = () => {
     import.meta.env;
 
     return {
